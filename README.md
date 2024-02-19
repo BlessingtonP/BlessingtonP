@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BlessingtonP
-- 👀 I’m interested in ...Driver Development
-- 🌱 I’m currently learning ...Kernel Driver Development
+- 👀 I’m interested in ...Cryotography - C Programing....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...blessington1010@gmail.com
 
